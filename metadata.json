@@ -1,0 +1,8 @@
+{
+  "name": "CallBridge",
+  "description": "Classic 4-player Call Bridge card game with smart AI, real-time trick taking, interactive bidding, round scorecards, and custom tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
